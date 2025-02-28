@@ -1,0 +1,13 @@
+# Blencer 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl MAT_Earl
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+c 1.000000
+illum 2
+map_Ka base_color.png
+map_Ks Earl_Roughness.png
+map_Ke Earl_Metallic.png
