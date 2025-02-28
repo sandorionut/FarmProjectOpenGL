@@ -46,5 +46,7 @@ Build the Project :
      
 Run the Application : 
 - After a successful build, press F5  or click Debug > Start Debugging  to run the application.
+
+![Farm Project Screenshot](ImagineScena.png)
      
      
