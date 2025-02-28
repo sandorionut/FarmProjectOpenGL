@@ -1,6 +1,6 @@
 FarmProject 
 
-The FarmProject  is a 3D graphical project developed in Visual Studio 2022  using the C programming language  and OpenGL libraries . This project showcases a virtual farm environment with various interactive elements and advanced graphical features. 
+The FarmProject  is a 3D graphical project developed in Visual Studio 2022  using the C++ programming language  and OpenGL libraries . This project showcases a virtual farm environment with various interactive elements and advanced graphical features. 
 Key Features: 
 - Interactive Objects : The scene includes multiple objects such as a barn, farmers, trees, animals, a house, and other interesting structures. Each object is meticulously designed to create an immersive farm environment.
 - Collision Detection : The project implements collision detection to ensure that the "camera" cannot pass through objects in the scene. The camera is positioned at a fixed height and can be moved using the W, A, S, and D keys .
